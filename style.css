@@ -16,14 +16,22 @@ html, body {
     padding-right: 10%;
 }
 
-.k-card {
-    width: calc(80vw/5);
-}
-
 .k-card-header:hover {
     cursor: grab;
 }
 
 .k-card-control:hover {
     cursor: pointer;
+}
+
+#main-board {
+    margin-top: 70px;
+}
+
+.board-wrapper {
+    padding-left: 10%;
+}
+
+.main-column {
+    width: 300px !important;
 }
