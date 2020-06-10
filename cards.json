@@ -1,0 +1,56 @@
+[
+    {
+        "id": "28c78719-8466-4aea-ba6e-749fe6bfa3ca",
+        "title": "Models",
+        "description": "Skapa models för korten, kolumnerna och brädan.",
+        "columnId": 0
+    },
+    {
+        "id": "7f043234-c292-4201-829f-c4a4df0b837a",
+        "title": "Databas",
+        "description": "Planera och göra research på hur vi sparar vår data.",
+        "columnId": 0
+    },
+    {
+        "id": "94e25123-afac-4bb4-8589-0476becc8533",
+        "title": "Editera kort",
+        "description": "Man skall kunna ändra innehållet i ett kort..",
+        "columnId": 0
+    },
+    {
+        "id": "de37c567-9a54-45aa-be3f-c06aada60025",
+        "title": "Flytta kort",
+        "description": "Man skall kunna flytta korten mellan kolumnerna.",
+        "columnId": 0
+    },
+    {
+        "id": "9d87f587-189a-41a8-a737-1694f0a90058",
+        "title": "Planera C#-metoder",
+        "description": "Skissa på vilka metoder och klasser vi behöver.",
+        "columnId": 0
+    },
+    {
+        "id": "12260fc3-05ec-4279-a88b-3d33c3d12dc6",
+        "title": "Projektplan",
+        "description": "Arbeta med planering och skapa kort i backloggen.",
+        "columnId": 1
+    },
+    {
+        "id": "5894a9b9-759d-4fc6-bc30-281008a505ee",
+        "title": "Skissa på frontenddesignen",
+        "description": "Testa att skapa en plan över utseendet på sidan. Bootstrap.",
+        "columnId": 1
+    },
+    {
+        "id": "07de3cb8-3a04-4c84-a463-ee1b7a1ea4c3",
+        "title": "Skapa repo på Github",
+        "description": "Skapa ett repo på github, med begränsningar för hur ny kod kommer in i development-grenen.",
+        "columnId": 2
+    },
+    {
+        "id": "819aca91-0e36-4ea9-96c2-aff8ce75945a",
+        "title": "Skapa ett Dotnet Core projekt",
+        "description": "Initiera en solution och ett Razor-pages projekt och pusha till repot.",
+        "columnId": 4
+    }
+]

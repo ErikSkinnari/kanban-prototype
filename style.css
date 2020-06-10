@@ -1,0 +1,29 @@
+html, body {
+    min-height: 100vh;
+}
+
+#background {
+    background-image: url('img/abandoned-forest-industry-nature-34950.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+.content {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.k-card {
+    width: calc(80vw/5);
+}
+
+.k-card-header:hover {
+    cursor: grab;
+}
+
+.k-card-control:hover {
+    cursor: pointer;
+}
